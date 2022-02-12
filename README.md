@@ -1,6 +1,7 @@
 # 《小试牛刀后台系统》
 
 > 主框架Vue2,其他技术栈：vue-router、vuex,axios、element-ui、axios、mock、echarts
+> 后台接口和数据用的是mock模拟出来的。
 
 ## Build Setup
 
