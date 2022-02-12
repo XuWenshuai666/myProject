@@ -1,21 +1,16 @@
-# mydemo
+# mydemo《小试牛刀后台系统》
 
-> A Vue.js project
+> 主框架Vue2,其他技术栈：vue-router、vuex,axios、element-ui、axios、mock、echarts
 
 ## Build Setup
 
 ``` bash
-# install dependencies
+# 请使用下面的命令安装开发和生产依赖
 npm install
 
-# serve with hot reload at localhost:8080
+# 服务运行在localhost:8080,用下面的命令运行哦
 npm run dev
 
-# build for production with minification
+# 打包
 npm run build
 
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
