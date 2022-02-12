@@ -1,4 +1,4 @@
-# mydemo《小试牛刀后台系统》
+# 《小试牛刀后台系统》
 
 > 主框架Vue2,其他技术栈：vue-router、vuex,axios、element-ui、axios、mock、echarts
 
